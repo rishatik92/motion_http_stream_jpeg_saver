@@ -1,0 +1,1 @@
+python service for save images from motion-server(motioneye) http jpeg stream
