@@ -1,0 +1,4 @@
+url: http://motion_ip:8081/
+filename_mask: frame.jpg
+dir: kitchen_cam/
+sleep: 1800
